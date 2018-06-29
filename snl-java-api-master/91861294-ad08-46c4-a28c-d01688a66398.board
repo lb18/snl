@@ -1,0 +1,511 @@
+{
+  "players": [],
+  "turn": 0,
+  "steps": [
+    {
+      "number": 0,
+      "type": 0,
+      "target": 0
+    },
+    {
+      "number": 1,
+      "type": 0,
+      "target": 1
+    },
+    {
+      "number": 2,
+      "type": 2,
+      "target": 24
+    },
+    {
+      "number": 3,
+      "type": 0,
+      "target": 3
+    },
+    {
+      "number": 4,
+      "type": 0,
+      "target": 4
+    },
+    {
+      "number": 5,
+      "type": 0,
+      "target": 5
+    },
+    {
+      "number": 6,
+      "type": 0,
+      "target": 6
+    },
+    {
+      "number": 7,
+      "type": 0,
+      "target": 7
+    },
+    {
+      "number": 8,
+      "type": 0,
+      "target": 8
+    },
+    {
+      "number": 9,
+      "type": 0,
+      "target": 9
+    },
+    {
+      "number": 10,
+      "type": 0,
+      "target": 10
+    },
+    {
+      "number": 11,
+      "type": 2,
+      "target": 33
+    },
+    {
+      "number": 12,
+      "type": 0,
+      "target": 12
+    },
+    {
+      "number": 13,
+      "type": 0,
+      "target": 13
+    },
+    {
+      "number": 14,
+      "type": 0,
+      "target": 14
+    },
+    {
+      "number": 15,
+      "type": 0,
+      "target": 15
+    },
+    {
+      "number": 16,
+      "type": 0,
+      "target": 16
+    },
+    {
+      "number": 17,
+      "type": 0,
+      "target": 17
+    },
+    {
+      "number": 18,
+      "type": 0,
+      "target": 18
+    },
+    {
+      "number": 19,
+      "type": 0,
+      "target": 19
+    },
+    {
+      "number": 20,
+      "type": 0,
+      "target": 20
+    },
+    {
+      "number": 21,
+      "type": 0,
+      "target": 21
+    },
+    {
+      "number": 22,
+      "type": 0,
+      "target": 22
+    },
+    {
+      "number": 23,
+      "type": 1,
+      "target": 7
+    },
+    {
+      "number": 24,
+      "type": 0,
+      "target": 24
+    },
+    {
+      "number": 25,
+      "type": 2,
+      "target": 85
+    },
+    {
+      "number": 26,
+      "type": 0,
+      "target": 26
+    },
+    {
+      "number": 27,
+      "type": 0,
+      "target": 27
+    },
+    {
+      "number": 28,
+      "type": 0,
+      "target": 28
+    },
+    {
+      "number": 29,
+      "type": 0,
+      "target": 29
+    },
+    {
+      "number": 30,
+      "type": 0,
+      "target": 30
+    },
+    {
+      "number": 31,
+      "type": 0,
+      "target": 31
+    },
+    {
+      "number": 32,
+      "type": 0,
+      "target": 32
+    },
+    {
+      "number": 33,
+      "type": 0,
+      "target": 33
+    },
+    {
+      "number": 34,
+      "type": 0,
+      "target": 34
+    },
+    {
+      "number": 35,
+      "type": 0,
+      "target": 35
+    },
+    {
+      "number": 36,
+      "type": 0,
+      "target": 36
+    },
+    {
+      "number": 37,
+      "type": 2,
+      "target": 61
+    },
+    {
+      "number": 38,
+      "type": 0,
+      "target": 38
+    },
+    {
+      "number": 39,
+      "type": 0,
+      "target": 39
+    },
+    {
+      "number": 40,
+      "type": 0,
+      "target": 40
+    },
+    {
+      "number": 41,
+      "type": 0,
+      "target": 41
+    },
+    {
+      "number": 42,
+      "type": 0,
+      "target": 42
+    },
+    {
+      "number": 43,
+      "type": 0,
+      "target": 43
+    },
+    {
+      "number": 44,
+      "type": 0,
+      "target": 44
+    },
+    {
+      "number": 45,
+      "type": 0,
+      "target": 45
+    },
+    {
+      "number": 46,
+      "type": 0,
+      "target": 46
+    },
+    {
+      "number": 47,
+      "type": 0,
+      "target": 47
+    },
+    {
+      "number": 48,
+      "type": 0,
+      "target": 48
+    },
+    {
+      "number": 49,
+      "type": 0,
+      "target": 49
+    },
+    {
+      "number": 50,
+      "type": 0,
+      "target": 50
+    },
+    {
+      "number": 51,
+      "type": 0,
+      "target": 51
+    },
+    {
+      "number": 52,
+      "type": 0,
+      "target": 52
+    },
+    {
+      "number": 53,
+      "type": 0,
+      "target": 53
+    },
+    {
+      "number": 54,
+      "type": 0,
+      "target": 54
+    },
+    {
+      "number": 55,
+      "type": 1,
+      "target": 13
+    },
+    {
+      "number": 56,
+      "type": 0,
+      "target": 56
+    },
+    {
+      "number": 57,
+      "type": 0,
+      "target": 57
+    },
+    {
+      "number": 58,
+      "type": 0,
+      "target": 58
+    },
+    {
+      "number": 59,
+      "type": 0,
+      "target": 59
+    },
+    {
+      "number": 60,
+      "type": 0,
+      "target": 60
+    },
+    {
+      "number": 61,
+      "type": 0,
+      "target": 61
+    },
+    {
+      "number": 62,
+      "type": 0,
+      "target": 62
+    },
+    {
+      "number": 63,
+      "type": 0,
+      "target": 63
+    },
+    {
+      "number": 64,
+      "type": 0,
+      "target": 64
+    },
+    {
+      "number": 65,
+      "type": 0,
+      "target": 65
+    },
+    {
+      "number": 66,
+      "type": 0,
+      "target": 66
+    },
+    {
+      "number": 67,
+      "type": 0,
+      "target": 67
+    },
+    {
+      "number": 68,
+      "type": 2,
+      "target": 90
+    },
+    {
+      "number": 69,
+      "type": 0,
+      "target": 69
+    },
+    {
+      "number": 70,
+      "type": 1,
+      "target": 32
+    },
+    {
+      "number": 71,
+      "type": 0,
+      "target": 71
+    },
+    {
+      "number": 72,
+      "type": 0,
+      "target": 72
+    },
+    {
+      "number": 73,
+      "type": 0,
+      "target": 73
+    },
+    {
+      "number": 74,
+      "type": 0,
+      "target": 74
+    },
+    {
+      "number": 75,
+      "type": 0,
+      "target": 75
+    },
+    {
+      "number": 76,
+      "type": 0,
+      "target": 76
+    },
+    {
+      "number": 77,
+      "type": 0,
+      "target": 77
+    },
+    {
+      "number": 78,
+      "type": 0,
+      "target": 78
+    },
+    {
+      "number": 79,
+      "type": 2,
+      "target": 97
+    },
+    {
+      "number": 80,
+      "type": 0,
+      "target": 80
+    },
+    {
+      "number": 81,
+      "type": 0,
+      "target": 81
+    },
+    {
+      "number": 82,
+      "type": 0,
+      "target": 82
+    },
+    {
+      "number": 83,
+      "type": 0,
+      "target": 83
+    },
+    {
+      "number": 84,
+      "type": 0,
+      "target": 84
+    },
+    {
+      "number": 85,
+      "type": 0,
+      "target": 85
+    },
+    {
+      "number": 86,
+      "type": 0,
+      "target": 86
+    },
+    {
+      "number": 87,
+      "type": 0,
+      "target": 87
+    },
+    {
+      "number": 88,
+      "type": 0,
+      "target": 88
+    },
+    {
+      "number": 89,
+      "type": 0,
+      "target": 89
+    },
+    {
+      "number": 90,
+      "type": 0,
+      "target": 90
+    },
+    {
+      "number": 91,
+      "type": 0,
+      "target": 91
+    },
+    {
+      "number": 92,
+      "type": 0,
+      "target": 92
+    },
+    {
+      "number": 93,
+      "type": 1,
+      "target": 67
+    },
+    {
+      "number": 94,
+      "type": 0,
+      "target": 94
+    },
+    {
+      "number": 95,
+      "type": 0,
+      "target": 95
+    },
+    {
+      "number": 96,
+      "type": 0,
+      "target": 96
+    },
+    {
+      "number": 97,
+      "type": 0,
+      "target": 97
+    },
+    {
+      "number": 98,
+      "type": 0,
+      "target": 98
+    },
+    {
+      "number": 99,
+      "type": 1,
+      "target": 3
+    },
+    {
+      "number": 100,
+      "type": 0,
+      "target": 100
+    }
+  ]
+}
